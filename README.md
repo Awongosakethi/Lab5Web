@@ -65,5 +65,14 @@
 - Berikut kode yang dimasukan dan hasilnya :
 ![11](https://user-images.githubusercontent.com/56240483/116005061-8df13100-a62f-11eb-90be-e40e5cb4a178.png)
 
-
+## Pertanyaan dan Tugas
+#### 1. Buat script untuk melakukan validasi isian form.
+- Source HTML nya
+![Screenshot (44)](https://user-images.githubusercontent.com/56240483/116108951-92285780-a6de-11eb-9f7e-75958f5b20aa.png)
+- Source CSS Stylenya
+![Screenshot (45)](https://user-images.githubusercontent.com/56240483/116108961-948ab180-a6de-11eb-92e7-d609119e82ab.png)
+- Hasil jika penulisan form tidak lengkap
+![Screenshot (46)](https://user-images.githubusercontent.com/56240483/116108964-95234800-a6de-11eb-9793-86fc80008f78.png)
+- Hasil jika penulisan email tidak benar
+![Screenshot (47)](https://user-images.githubusercontent.com/56240483/116108966-95bbde80-a6de-11eb-8284-0805fc3acff2.png)
 
